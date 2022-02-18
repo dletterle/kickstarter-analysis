@@ -1,7 +1,7 @@
 # An Analysis of Kickstarter Campaigns
 Performing analysis on Kickstarter data to uncover trends
 
-#Deliverable 1
+**#Deliverable 1**
 
 The excel file was downloaded and modules were followed 
 The excel file name was changed from StarterBook.xlsx to Kickstarter_Challenge.xlsx
@@ -16,7 +16,7 @@ A Pivot Table was created and placed in a separate sheet titled "Outcomes Based 
 The line chart seen below was created	
 	![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/99268646/154607482-c6237c13-b4de-4885-84c4-6dd420199e3c.png)
 
-#Deliverable 2
+**#Deliverable 2**
 
 A new sheet "Outcomes Based on Goals" was created within Kickstarter_Challenge.xlsx
 The following columns were created: Goal, Number of Successful, Number Failed, Number Canceled, Total Projects, Percentage Failed, Percentage Canceled 
