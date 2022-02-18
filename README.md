@@ -6,7 +6,7 @@ Performing analysis on Kickstarter data to uncover trends
 The excel file was downloaded and modules were followed 
 The excel file name was changed from StarterBook.xlsx to Kickstarter_Challenge.xlsx
 A separate folder was created to hold the charts that were created 
-A "Years" column was created utilizing the Year() function from the "Date Created Conversion" 
+A "Years" column was created utilizing the Year() function from the "Date Created Conversion" and Date was coverted utilizing Epoch Time Converter
 A Pivot Table was created and placed in a separate sheet titled "Outcomes Based on Launch Date" 
 	Pivot Table was filtered by "Parent Category" and "Years" 
 	"Outcomes" were placed in Columns 
@@ -31,17 +31,19 @@ A line chart was created to visualize the relationship between the goal-amount a
 
 **Deliverable 3**
 
-_Section 1_
+_Section 1 Overview of Project_
 
 The purpose of this analysis was to help Louise with her project campaign. This was done by becomming familiar with Excel and some of the basic functions and formatting to review the data collected by Louise and turn it into a more user-friendly readable format. Some of the features utilized in this project to assist Louise include: filtering, formatting and freezing; conditional formatting; finding averages, quartile values, minimum annd maximum values, and variance and standard deviation; errors and debugging; pivot tables; charts and diagrams. 
 
-_Section 2_
+_Section 2 Analysis and Challenges_
+
+	_Analysis_
 
 When performing analysis of the data collected by Louise the data was downloaded and properly saved in Excel. Then the rows,columns, sheet names and data type were appropriately noted. A pane was created with the first three columns and title row. Conditional rules were created to show "successful" outcomes in green; "failed" outcomes in red; "live" outcomes in blue; and "canceled" outcomes in yellow. Next Error donations were changed to "0" due to the fact that numbers cannot be divided by zero. Pivot tables were created for categories and subcategories with the graphs: 
+
 ![image](https://user-images.githubusercontent.com/99268646/153982455-eab881ea-7c55-4694-9c2f-5fb61fbc5632.png)
 ![image](https://user-images.githubusercontent.com/99268646/153982492-13461871-4b6d-4095-9de8-984bf8591c2a.png)
-Epoch was converted to human-readable data with the following graph:
-![image](https://user-images.githubusercontent.com/99268646/153983458-24480760-507f-46f3-a248-87ea4fa80f37.png)
+
 When searching the play _Walken on Sunshine_ the status was **successful** the average donation was **$71.24** rhe duration was **30 days** and the number of backers was **173 **hfhf**fjfjf
 VLOOKUP was used to depict the following averages for donations and backers
 ![image](https://user-images.githubusercontent.com/99268646/153983211-152385b6-6a02-49bc-8eea-f1c637633cb8.png)
@@ -65,3 +67,15 @@ IQR of Pledged	$3,982	$492
 ![image](https://user-images.githubusercontent.com/99268646/153984075-f96c8172-f75b-455d-953b-e6fde4146d54.png)
 Outliers were found and Box-charts were created 
 ![image](https://user-images.githubusercontent.com/99268646/153984402-b98ac746-5e03-47fa-a13d-d962b15dc5a3.png)
+
+	_Challenges__
+	My largest challenge was using the conditional statements to filter the data. At 	first I struggled attempting to do the obvious and just remove the excesss data 	through deleting or hiding the cells leaving the remaining cells for analysis. After 		further research and evaluation it was apparent that the dataset needed to be 		filtered using conditional formatting. I went back to the module to review 		conditional formatting and fixed my analysis and workbook. 
+
+_Section 3 Results_
+
+	_Conclusions Theater Outcomes by Launch Date_
+	When reviewing the Theater Outcomes by Launch Date, there is a much higher count of successful theater outcomes done in the summer months (May, June, July) with the largest count of successful theater outcomes in May. Failed outcomes for theater concerts seem to remain relativeley consistent through the year with failed outcomes creating a much flatter line compared to the line generated from successful outcomes. It appears the worst month to have a theater concert is December where there is almost a 1:1 ratio of failed to successful outcomes of theater concerts. 
+	_CConclusion Outcomes Based on Goals_
+	
+
+
