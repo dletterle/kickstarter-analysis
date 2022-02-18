@@ -31,16 +31,16 @@ A line chart was created to visualize the relationship between the goal-amount a
 
 **Deliverable 3**
 
+_Section 1_
 
-Data was downloaded and properly saved in Excel
-Rows,columns, sheet names and data type were appropriately noted
-A pane was created with the first three columns and title row 
-Conditional rules were created to show "successful" outcomes in green; "failed" outcomes in red; "live" outcomes in blue; and "canceled" outcomes in yello
-Error donations were changed to "0" due to the fact that numbers cannot be divided by zero 
-Pivot tables were created for categories and subcategories with the graphs: 
+The purpose of this analysis was to help Louise with her project campaign. This was done by becomming familiar with Excel and some of the basic functions and formatting to review the data collected by Louise and turn it into a more user-friendly readable format. Some of the features utilized in this project to assist Louise include: filtering, formatting and freezing; conditional formatting; finding averages, quartile values, minimum annd maximum values, and variance and standard deviation; errors and debugging; pivot tables; charts and diagrams. 
+
+_Section 2_
+
+When performing analysis of the data collected by Louise the data was downloaded and properly saved in Excel. Then the rows,columns, sheet names and data type were appropriately noted. A pane was created with the first three columns and title row. Conditional rules were created to show "successful" outcomes in green; "failed" outcomes in red; "live" outcomes in blue; and "canceled" outcomes in yellow. Next Error donations were changed to "0" due to the fact that numbers cannot be divided by zero. Pivot tables were created for categories and subcategories with the graphs: 
 ![image](https://user-images.githubusercontent.com/99268646/153982455-eab881ea-7c55-4694-9c2f-5fb61fbc5632.png)
 ![image](https://user-images.githubusercontent.com/99268646/153982492-13461871-4b6d-4095-9de8-984bf8591c2a.png)
-Epoch was converted to human-readable data with the following graph
+Epoch was converted to human-readable data with the following graph:
 ![image](https://user-images.githubusercontent.com/99268646/153983458-24480760-507f-46f3-a248-87ea4fa80f37.png)
 When searching the play _Walken on Sunshine_ the status was **successful** the average donation was **$71.24** rhe duration was **30 days** and the number of backers was **173 **hfhf**fjfjf
 VLOOKUP was used to depict the following averages for donations and backers
