@@ -26,6 +26,7 @@ The data was checked through the "SUM()" function of the created table with "COU
 The "SUM()" function was used to populate the "Total Projects" column with the number of successful, failed, and canceled projects for each row 
 The percentage of successful, failed and canceled projects for each row by dividing each cell by the total summed and changing the format of the cell to "percentage"
 A line chart was created to visualize the relationship between the goal-amount and the percentage of successful, failed, or canceled projects. 
+
 <img width="569" alt="Outcomes_vs_Goals" src="https://user-images.githubusercontent.com/99268646/154712183-8de17ef5-0707-4a84-bda2-827b878d7511.png">
 
 **Deliverable 3**
