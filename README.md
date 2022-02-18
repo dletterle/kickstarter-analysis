@@ -1,5 +1,21 @@
 # An Analysis of Kickstarter Campaigns
 Performing analysis on Kickstarter data to uncover trends
+#Deliverable 1
+The excel file was downloaded and modules were followed 
+The excel file name was changed from StarterBook.xlsx to Kickstarter_Challenge.xlsx
+A separate folder was created to hold the charts that were created 
+A "Years" column was created utilizing the Year() function from the "Date Created Conversion" 
+A Pivot Table was created and placed in a separate sheet titled "Outcomes Based on Launch Date" 
+	Pivot Table was filtered by "Parent Category" and "Years" 
+	"Outcomes" were placed in Columns 
+	"Date Created Conversion" was placed in Rows
+	"Count of outcomes" was placed in Values 
+	The "Parent Category" filter was filtered to "theater"
+The line chart seen below was created	
+	![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/99268646/154607482-c6237c13-b4de-4885-84c4-6dd420199e3c.png)
+
+#Deliverable 2
+
 Data was downloaded and properly saved in Excel
 Rows,columns, sheet names and data type were appropriately noted
 A pane was created with the first three columns and title row 
