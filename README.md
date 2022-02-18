@@ -67,15 +67,21 @@ IQR of Pledged	$3,982	$492
 ![image](https://user-images.githubusercontent.com/99268646/153984075-f96c8172-f75b-455d-953b-e6fde4146d54.png)
 Outliers were found and Box-charts were created 
 ![image](https://user-images.githubusercontent.com/99268646/153984402-b98ac746-5e03-47fa-a13d-d962b15dc5a3.png)
-
 	_Challenges__
-	My largest challenge was using the conditional statements to filter the data. At 	first I struggled attempting to do the obvious and just remove the excesss data 	through deleting or hiding the cells leaving the remaining cells for analysis. After 		further research and evaluation it was apparent that the dataset needed to be 		filtered using conditional formatting. I went back to the module to review 		conditional formatting and fixed my analysis and workbook. 
+My largest challenge was using the conditional statements to filter the data. At first I struggled attempting to do the obvious and just remove the excesss data through deleting or hiding the cells leaving the remaining cells for analysis. After further research and evaluation it was apparent that the dataset needed to be filtered using conditional formatting. I went back to the module to review conditional formatting and fixed my analysis and workbook. 
 
 _Section 3 Results_
+	
+	_Conclusions about the Theater Outcomes by Launch Date_
+When reviewing the Theater Outcomes by Launch Date, there is a much higher count of successful theater outcomes done in the summer months (May, June, July) with the largest count of successful theater outcomes in May. Failed outcomes for theater concerts seem to remain relativeley consistent through the year with failed outcomes creating a much flatter line compared to the line generated from successful outcomes. It appears the worst month to have a theater concert is December where there is almost a 1:1 ratio of failed to successful outcomes of theater concerts. 
+	
+	_Conclusion Outcomes Based on Goals_
+When reviewing the Outcomes Based on Goals there is no relationship between the variables "Goal" and "Outcome"; as in, these variables are independent from one another. As goal amount increases or decreases, there is no impact on the percentage of success or percentage of failure of plays. It is also easy to see the independence of the variables when looking at the graph because there is no relation and an ever changing slope. On a practical experience this makes sense because a goal is not necessarily action. So a goal of an A in a course or a budget of 50,000 does not determine outcome like other variables such as "study time" or "pledged amount" 
 
-	_Conclusions Theater Outcomes by Launch Date_
-	When reviewing the Theater Outcomes by Launch Date, there is a much higher count of successful theater outcomes done in the summer months (May, June, July) with the largest count of successful theater outcomes in May. Failed outcomes for theater concerts seem to remain relativeley consistent through the year with failed outcomes creating a much flatter line compared to the line generated from successful outcomes. It appears the worst month to have a theater concert is December where there is almost a 1:1 ratio of failed to successful outcomes of theater concerts. 
-	_CConclusion Outcomes Based on Goals_
+	_Limitations_
+There are a few limitations of the dataset. For example some of the subcategories are too small to generate meaningful analysis. Which also impacts outcome variables because for some subcategories such as Pop/Music only has 39 values and they are all successful which limits reliability and analysis of specific categories. It is also a limitation to make a recommendation based on any category related to "goal". As described previously I have the goal of an A as the plays have a monetary goal that we are not aware of how it is generated. The goal could just be a guess and hope. Without the time spent on the module or the money actually generated, the goal does not offer much statistical analysis. 
+
+	_Recommendations_
 	
 
-
+Other possible tables or graphs to include are: 
